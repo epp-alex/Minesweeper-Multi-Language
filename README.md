@@ -4,6 +4,15 @@ A modern, feature-rich Minesweeper game built with Python and PyQt5. It supports
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="image002.png" alt="Minesweeper Gameplay 1" width="45%" />
+  <img src="image003.png" alt="Minesweeper Gameplay 2" width="45%" />
+</p>
+
+---
+
 ## 🖥️ Supported Platforms & Downloads
 
 Go to the **Releases** page to download the ready-to-run packages for your system:
