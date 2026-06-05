@@ -1,4 +1,3 @@
-<img width="1122" height="677" alt="Screenshot 2026-06-05 090618" src="https://github.com/user-attachments/assets/59fa3f88-527a-4460-8b51-58c834d413e4" />
 # 💣 Multilingual Minesweeper
 
 A modern, feature-rich Minesweeper game built with Python and PyQt5. It supports **28 languages** out of the box, automatic high-DPI scaling for Retina displays, and includes helpful assistance tools for beginners and advanced players alike.
